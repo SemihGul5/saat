@@ -1,0 +1,9 @@
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\PROJE\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
